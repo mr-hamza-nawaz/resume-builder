@@ -93,10 +93,10 @@
   </div>
 </template>
 <script>
-import BaseInput from "../fields/baseinput.vue"
+import BaseInput from "../fields/BaseInput.vue"
 import BaseTextArea from "../fields/BaseTextArea.vue"
 import BaseError from "../errors/BaseError.vue"
-import BaseButton from "../fields/basebutton.vue"
+import BaseButton from "../fields/BaseButton.vue"
 import BaseOption from "../fields/BaseOption.vue";
 import { reactive, ref} from 'vue';
 import useVuelidate from '@vuelidate/core'
