@@ -104,7 +104,7 @@
   </div>
 </template>
 <script>
-import BaseInput from "../fields/baseinput.vue"
+import BaseInput from "../fields/BaseInput.vue"
 import BaseTextArea from "../fields/BaseTextArea.vue"
 import BaseError from "../errors/BaseError.vue"
 import BaseButton from "../fields/Basebutton.vue"
