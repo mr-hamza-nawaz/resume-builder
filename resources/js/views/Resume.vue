@@ -22,7 +22,7 @@ import EducationalHistory from '../components/forms/EducationalHistory.vue';
 import Skill from '../components/forms/Skill.vue';
 import WorkHistory from '../components/forms/WorkHistory.vue';
 import PersonDataForm from '../components/forms/PersonData.vue'
-import BaseButton from "../components/fields/Basebutton.vue";
+import BaseButton from "../components/fields/BaseButton.vue";
 import BaseError from "../components/errors/BaseError.vue"
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable'
